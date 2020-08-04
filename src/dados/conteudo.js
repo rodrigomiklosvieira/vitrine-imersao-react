@@ -34,3 +34,15 @@ export default [
     ],
   },
 ];
+{
+    nome : 'Rodrigo Miklos Vieira' ,
+    foto : 'https://avatars0.githubusercontent.com/u/43484557?s=460&u=68becfc4b6179b99af11ec4abd9e30ddaa03c56a&v=4' ,
+    nomeDoProjeto : 'AluraFlix' ,
+    url : 'https://aluraflix-livid.vercel.app' ,
+    tags : [
+      'front end' ,
+      'filmes' ,
+      'games' ,
+    ] ,
+  } ,
+   
